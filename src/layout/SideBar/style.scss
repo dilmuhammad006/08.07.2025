@@ -1,0 +1,17 @@
+.sideWrapper{
+    min-width: 250px;
+    height: 100vh;
+    border-right: 1px solid #ffffff50;
+    padding: 16px;
+    position: sticky;
+    top: 0;
+
+    a{
+        text-decoration: none;
+    }
+    li{
+        list-style-type: none;
+        border-bottom: 1px solid #ffffff50;
+        margin-bottom: 20px;
+    }
+}
