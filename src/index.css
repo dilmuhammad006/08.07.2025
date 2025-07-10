@@ -7,3 +7,9 @@
 body {
   background-color: #0c2d48;
 }
+svg {
+  width: 20px;
+  text-align: center;
+  cursor: pointer;
+  fill: #b1d4e0;
+}
