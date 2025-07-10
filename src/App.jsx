@@ -1,6 +1,7 @@
 import { Navigate, NavLink, Route, Routes } from "react-router";
 import MainLayout from "./layout/Main";
 import React from "react";
+
 const PostsPage = React.lazy(() => import("./pages/Posts"));
 const ProductsPage = React.lazy(() => import("./pages/Products"));
 const UsersPage = React.lazy(() => import("./pages/Users"));
